@@ -1,6 +1,5 @@
 import click
 
-# Dummy data for demonstration purposes
 categories = ["Electronics", "Clothing", "Books"]
 products = {
     "Electronics": ["TV", "Laptop", "Phone"],
